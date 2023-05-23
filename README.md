@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End Developer
 ------------------------
 
-I am Front End Developer who loves React Native. apart from this, I have 2 years of experience in Android , after that i switched to react native . now i am working on it since 2021 . I made multiple projects. i also have basic knowledge of python, html, css, javascript and Mysql
+I am Front End Developer who loves React Native. apart from this, I have 2 years of experience as React Native developer . I have  made multiple projects. i also have basic knowledge of python, html, css, javascript and Mysql
 
 * 🌍  I'm based in Noida
 * ✉️  You can contact me at [aadikori.9085@gmail.com](mailto:aadikori.9085@gmail.com)
