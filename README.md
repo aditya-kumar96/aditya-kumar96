@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Kumar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Aditya Kumar
 ====================================================================================================================================
 
 I am Front End Developer
 ------------------------
 
-I am Front End Developer who loves React Native. apart from this, I have 2 years of experience as React Native developer . I have  made multiple projects. i also have basic knowledge of python, html, css, javascript and Mysql
+I am Full Stack Developer who loves React & javascript. 
 
 * 🌍  I'm based in Noida
-* ✉️  You can contact me at [aadikori.9085@gmail.com](mailto:aadi.kori.9085@gmail.com)
-* 🧠  I'm learning react native
+* ✉️  You can contact me at [aadi.kori.9085@gmail.com](mailto:aadi.kori.9085@gmail.com)
+* 🧠  I'm learning react.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
