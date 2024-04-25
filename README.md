@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Aditya Kumar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aditya Kumar
 ====================================================================================================================================
 
-I am Front End Developer
+I am Full Stack Developer
 ------------------------
-
-I am Full Stack Developer who loves React & javascript. 
+A driven Indian developer who thinks that everything is possible as long as you put in the necessary effort to achieve it 
 
 * 🌍  I'm based in Noida
 * ✉️  You can contact me at [aadi.kori.9085@gmail.com](mailto:aadi.kori.9085@gmail.com)
