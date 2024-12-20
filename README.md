@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aditya Kumar
 ====================================================================================================================================
 
-I am Full Stack Developer
+I am React Native Developer Who is responsible for create and design robust App which help people to done their work easy 
 ------------------------
 A driven Indian developer who thinks that everything is possible as long as you put in the necessary effort to achieve it 
 
