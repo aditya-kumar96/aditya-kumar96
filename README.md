@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.postimg.cc/2q8WjkxJ/banner.png" alt="Aditya Kumar - GitHub Banner" width="80%" />
+  <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2002_06_40%20AM.png" alt="Aditya Kumar - GitHub Banner" width="80%" />
 </p>
+
 
 <h3 align="center">Frontend Developer | Dreamer | Doer</h3>
 
