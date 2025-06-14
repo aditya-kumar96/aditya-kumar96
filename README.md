@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/NPM-@adityakumar9085-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </a>
 
-- <a href="https://linkedin.com/in/adityakumar9085" target="_blank">
+- <a href="https://www.linkedin.com/in/adityakumar-react-native/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
