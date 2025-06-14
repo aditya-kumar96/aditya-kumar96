@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=aditya-kumar96&color=brightgreen" alt="Profile views" />
+</p>  
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1> 
+
 <h3 align="center">Frontend Developer | Dreamer | Doer</h3>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100"/>
@@ -73,13 +78,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-kumar96&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aditya-kumar96&theme=react-dark&bg_color=1c1917&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kumar96&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@adityakumar9085&layout=compact&theme=radical&hide_border=true" alt="Aditya's WakaTime Stats" />
+  </p>
+
 
 ---
 
