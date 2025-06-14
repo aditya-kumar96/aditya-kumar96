@@ -19,6 +19,8 @@
 - Advanced App UI/UX Design
 - Firebase & Cloud Integration
 - Building Indie Projects 🚀
+- Native Modules for Android and iOS
+- AI integration on Front End
 
 ---
 
@@ -29,6 +31,7 @@
 - 📺 YouTube: [Aadi Writzz](https://www.youtube.com/c/aadiwritzz)  
 - 💻 GitHub: [@aditya-kumar96](https://github.com/aditya-kumar96)
 - 🌐 LeetCode: [@aditya9085](https://leetcode.com/u/aditya9085/)
+- 🌐 LeetCode: [@adityakumar9085](https://www.npmjs.com/~adityakumar9085)
 
 ---
 
