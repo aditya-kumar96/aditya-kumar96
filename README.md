@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2002_06_40%20AM.png" alt="Aditya Kumar - GitHub Banner" width="80%" />
+  <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2002_06_40%20AM.png" alt="Aditya Kumar - GitHub Banner" width="100%" />
 </p>
 
-
-<h3 align="center">Frontend Developer | Dreamer | Doer</h3>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100"/>
+  <strong>Frontend Developer • Dreamer • Doer</strong>
 </p>
 
 ---
@@ -22,7 +19,7 @@
 
 - <b>React ⚛️</b>: Deep diving into advanced patterns and performance.
 - <b>Advanced App UI/UX Design</b>: Crafting intuitive and delightful user experiences.
-- <b>Firebase & Cloud Integration</b>: Building Mobile Notification , Realtime DB , etc.
+- <b>Firebase & Cloud Integration</b>: Building Mobile Notification, Realtime DB, etc.
 - <b>Building Indie Projects 🚀</b>: Bringing personal app ideas to life.
 - <b>Native Modules for Android and iOS</b>: Bridging React Native with native power.
 - <b>AI Integration on Front End</b>: Exploring how AI can enhance UX.
@@ -31,7 +28,10 @@
 
 ### 🚀 Featured Projects
 
-- 📱 [MusicPlayer](https://github.com/aditya-kumar96/your-app) — Showcasing the ability of React Native in Music Player App.
+- 🎧 [React Native Music Player](https://github.com/aditya-kumar96/MusicPlayer.git)  
+  A sleek and responsive music player using Expo and React Native Track Player.
+
+
 
 ---
 
@@ -53,6 +53,10 @@
   <img src="https://img.shields.io/badge/NPM-@adityakumar9085-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </a>
 
+- <a href="https://linkedin.com/in/adityakumar9085" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -61,7 +65,14 @@
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React Native" /></a>
-  <a href="https://expo.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="36" height="36" alt="Expo" /></a>
+ 
+
+ <a href="https://expo.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/aditya-kumar96/aditya-kumar96/main/assets/expo-logo.png" width="36" alt="Expo" />
+</a>
+
+
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
@@ -83,6 +94,7 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aditya-kumar96&theme=radical&no-frame=true&title=Commit,Repositories" />
 </p>
