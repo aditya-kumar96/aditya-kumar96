@@ -1,4 +1,6 @@
 <p align="right">
+<img src="https://wakatime.com/badge/github/aditya-kumar96/NativeModule_Java.svg" alt="Aditya's WakaTime Stats"/>
+
   <img src="https://komarev.com/ghpvc/?username=aditya-kumar96&color=brightgreen" alt="Profile views" />
 </p>  
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1> 
@@ -89,6 +91,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@adityakumar9085&layout=compact&theme=radical&hide_border=true" alt="Aditya's WakaTime Stats" />
   </p>
+
 
 
 ---
