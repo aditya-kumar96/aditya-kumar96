@@ -15,23 +15,38 @@
 ---
 
 ### 🧠 Currently Exploring
-- React ⚛️
-- Advanced App UI/UX Design
-- Firebase & Cloud Integration
-- Building Indie Projects 🚀
-- Native Modules for Android and iOS
-- AI integration on Front End
+- <b>React ⚛️</b>: Deep diving into advanced patterns and performance.
+  
+- <b>Advanced App UI/UX Design</b>: Crafting intuitive and delightful user experiences.
+  
+- <b>Firebase & Cloud Integration</b>: Building Mobile Notification , Realtime DB , etc. solutions.
+  
+- <b>Building Indie Projects 🚀</b>: Bringing personal app ideas to life.
+  
+- <b>Native Modules for Android and iOS</b>: Bridging the gap between React Native and platform-specific functionalities.
+  
+- <b>AI Integration on Front End</b>: Exploring how AI can enhance user interfaces and experiences.
 
 ---
 
 ### 💬 Let's Connect
 
-- 📫 Email: [aadi.kori.9085@gmail.com](mailto:aadi.kori.9085@gmail.com)  
-- 📸 Instagram: [@i_katiyan_aadi](https://instagram.com/i_katiyan_aadi)  
-- 📺 YouTube: [Aadi Writzz](https://www.youtube.com/c/aadiwritzz)  
-- 💻 GitHub: [@aditya-kumar96](https://github.com/aditya-kumar96)
-- 🌐 LeetCode: [@aditya9085](https://leetcode.com/u/aditya9085/)
-- 🌐 LeetCode: [@adityakumar9085](https://www.npmjs.com/~adityakumar9085)
+-  <a href="mailto:aadi.kori.9085@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-aadi.kori.9085%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a> 
+
+-  <a href="https://github.com/aditya-kumar96" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@aditya--kumar96-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  
+-  <a href="https://leetcode.com/u/aditya9085/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-@aditya9085-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  
+-  <a href="https://www.npmjs.com/~adityakumar9085" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-@adityakumar9085-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  </a>
+
 
 ---
 
@@ -41,10 +56,10 @@
 <p align="left"> <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a> <a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React Native" /></a> <a href="https://expo.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="36" height="36" alt="Expo" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a> </p>
 
 ### 🧠 Programming Languages
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a> <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a> </p>
+<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a> 
 
 ### 🔧 Tools & Frameworks
-<p align="left"> <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" /></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://docs.clover.com/build/web-api/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" width="36" height="36" alt="Clover Web API" /></a> </p>
+<p align="left"> <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" /></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a>  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://docs.clover.com/build/web-api/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" width="36" height="36" alt="Clover Web API" /></a> </p>
 
 ---
 
