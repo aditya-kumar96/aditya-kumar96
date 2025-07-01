@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2002_06_40%20AM.png" alt="Aditya Kumar - GitHub Banner" width="100%" />
 </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=aditya-kumar96&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="center">
   <strong>Frontend Developer • Dreamer • Doer</strong>
