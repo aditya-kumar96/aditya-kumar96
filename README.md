@@ -33,6 +33,8 @@
 
 - 🎧 [React Native Music Player](https://github.com/aditya-kumar96/MusicPlayer.git)  
   A sleek and responsive music player using Expo and React Native Track Player.
+- [LetsAsk](https://github.com/aditya-kumar96/LetsAsk.git)
+   A ChatBot App with Open AI integration .
 
 ---
 
