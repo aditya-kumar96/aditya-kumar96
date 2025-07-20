@@ -49,6 +49,15 @@
   <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/UC-IKGBX53X.jpg" alt="Udemy Certificate - Android Development" width="80%" />
 </p>
 
+#### ✅ Udemy - Modern React with Redux  
+🗓️ **Completed on:** July 18, 2025  
+⏱️ **Duration:** 75.5 Hours  
+🔗 [Verify Certificate](https://www.udemy.com/certificate/UC-aba0f775-af7a-48ef-85e4-1a11d7cf61bd/)
+
+<p align="center">
+  <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/ReactCertificate.jpg" alt="Udemy Certificate - React with Redux" width="80%" />
+</p>
+
 ---
 
 ### 💬 Let's Connect
