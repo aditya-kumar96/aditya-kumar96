@@ -58,6 +58,15 @@
   <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/ReactCertificate.jpg" alt="Udemy Certificate - React with Redux" width="80%" />
 </p>
 
+#### ✅ Namaste React - NamasteDev  
+🗓️ **Completed on:** July, 2025  
+🔗 [Verify Certificate](https://namastedev.com/aadi.kori.9085/certificates/namaste-react)
+
+<p align="center">
+  <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/certificate.webp" alt="Namaste React" width="80%" />
+</p>
+
+
 ---
 
 ### 💬 Let's Connect
