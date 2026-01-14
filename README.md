@@ -67,6 +67,16 @@
 </p>
 
 
+#### ✅ FastAPI - The Complete Course 2026 (Beginner + Advanced)  
+🗓️ **Completed on:** Jan, 2026  
+⏱️ **Duration:** 21.5 Hours  
+🔗 [Verify Certificate]([https://www.udemy.com/certificate/UC-9054d3f2-773a-449e-8ae2-a7114e0293f2/)
+
+<p align="center">
+  <img src="https://github.com/aditya-kumar96/aditya-kumar96/blob/main/fastAPI_Certificate.jpg" alt="FastAPI" width="80%" />
+</p>
+
+
 ---
 
 ### 💬 Let's Connect
