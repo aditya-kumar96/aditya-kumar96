@@ -147,8 +147,10 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-kumar96&theme=radical" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=aditya-kumar96&theme=radical&hide_border=true" alt="Github Streak"/>
+
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kumar96&layout=compact&theme=radical" alt="Top Languages" />
