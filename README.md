@@ -147,7 +147,7 @@
 </p>
 
 <p align="left">
- <img src="https://streak-stats.demolab.com/?user=aditya-kumar96&theme=radical&hide_border=true" alt="Github Streak"/>
+ <img src="https://streak-stats.demolab.com/?user=aditya-kumar96&theme=radical" alt="Github Streak"/>
 
 </p>
 
